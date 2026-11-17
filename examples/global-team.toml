@@ -1,0 +1,30 @@
+title = "Global design review"
+occurrences = 4
+step_minutes = 30
+rotate = true
+maximum_outside_minutes = 240
+
+[[participants]]
+name = "Vancouver"
+utc_offset = "-08:00"
+preferred_start = "09:00"
+preferred_end = "17:00"
+
+[[participants]]
+name = "Toronto"
+utc_offset = "-05:00"
+preferred_start = "09:00"
+preferred_end = "17:00"
+
+[[participants]]
+name = "Berlin"
+utc_offset = "+01:00"
+preferred_start = "09:00"
+preferred_end = "17:00"
+
+[[participants]]
+name = "Bengaluru"
+utc_offset = "+05:30"
+preferred_start = "09:00"
+preferred_end = "18:00"
+weight = 2
